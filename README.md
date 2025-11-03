@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @Worawichw
-- 👀 I’m interested in lots of things (finding myself)
+- 👋 Hi, I’m Worawich
 - 🌱 I’m currently learning <Python>
-- 💞️ I’m looking to collaborate on <Not much really. I'm still a beginner>
 - 📫 How to reach me <Email : paiworawich@gmail.com>
-- 😄 Pronouns: <He/Him>
+  
 
 
 <!---
