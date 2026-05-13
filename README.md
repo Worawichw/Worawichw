@@ -1,4 +1,4 @@
-<h1>👋 Hi, I’m Worawich. You can call me Isaac.</h1>
+<h1>👋 Hi, I’m Worawich. You can call me Pai.</h1>
 <p>🌱 I'm currently studying at Chulalongkorn University, Bangkok.</p>
 <p>📫 How to reach me: paiworawich@gmail.com</p>
 <p>📖 Interested in <i>data science</i> and <i>full stack development</i>.</p>
